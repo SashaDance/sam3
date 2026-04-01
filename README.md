@@ -1,3 +1,7 @@
+# TODO
+
+change current code version to SAM 3.1 release: https://github.com/facebookresearch/sam3/pull/503
+
 # SAM 3: Segment Anything with Concepts
 
 Meta Superintelligence Labs
