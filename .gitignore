@@ -151,3 +151,9 @@ Thumbs.db
 # BPE vocabulary files
 *.bpe
 *.vocab
+
+# local data for testing
+data/
+
+# docker image
+*.tar
